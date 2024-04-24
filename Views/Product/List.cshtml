@@ -21,10 +21,7 @@
                 <td>@product.Id</td>
                 <td>@product.Name</td>
                 <td>@product.Cost</td>
-                <td>
-                    <a>Edit</a>
-                    <a>Delete</a>
-                </td>
+                <td><a class="btn btn-primary" asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id">Edit</a></td>
             </tr>
         }
     </tbody>

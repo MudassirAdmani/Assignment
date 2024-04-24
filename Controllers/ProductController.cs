@@ -43,5 +43,28 @@ namespace NetCoreAssignment.Controllers
             var product = await dbContext.Products.FindAsync(id);
             return View(product);
         }
+        [HttpPost]
+        public async Task<IActionResult> Edit(Product viewModel)
+        {
+            var product = await dbContext.Products.FindAsync(viewModel.Id);
+            if (product is not null)
+            {
+                product.Name = viewModel.Name;
+                product.Cost = viewModel.Cost;
+                await dbContext.SaveChangesAsync();
+            }
+            return RedirectToAction("List", "Product");
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(Product viewModel)
+        {
+            var product = await dbContext.Products.AsNoTracking().FirstOrDefaultAsync(x => x.Id == viewModel.Id);
+            if (product is not null)
+            {
+                dbContext.Products.Remove(viewModel);
+                await dbContext.SaveChangesAsync();
+            }
+            return RedirectToAction("List", "Product");
+        }
     }
 }
