@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers"
   ],
-  "SelectedNode": "\\NetCoreAssignment.sln",
+  "SelectedNode": "\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
