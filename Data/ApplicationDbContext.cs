@@ -1,11 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
-using NetCoreAssignment.Models.Entities;
+﻿using ImgCrud.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace NetCoreAssignment.Data
+namespace ImgCrud.Data
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
         public DbSet<Product> Products { get; set; }

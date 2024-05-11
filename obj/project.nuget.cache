@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qXXq7JH2CUVSuqVbqtFyr4OqoNNLFhKSvLWLVEFaj/Q1QdGeCio9yNoni/N8P1spTb+WyjvSC78EN0vdXXG3w==",
+  "dgSpecHash": "dT7sN3nkpYqMIQglOLagUYbPDqjD2Ko152w/9A/BzFJk8xuOsvQBe3waqsH9L80dhG3Zw+Dn87GXaUOswfdPpw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\NetCoreAssignment.csproj",
+  "projectFilePath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\ImgCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mudassir\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mudassir\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
+using ImgCrud.Models;
 using Microsoft.AspNetCore.Mvc;
-using NetCoreAssignment.Models;
 using System.Diagnostics;
 
-namespace NetCoreAssignment.Controllers
+namespace ImgCrud.Controllers
 {
     public class HomeController : Controller
     {

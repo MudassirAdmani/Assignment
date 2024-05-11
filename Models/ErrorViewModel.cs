@@ -1,4 +1,4 @@
-namespace NetCoreAssignment.Models
+namespace ImgCrud.Models
 {
     public class ErrorViewModel
     {

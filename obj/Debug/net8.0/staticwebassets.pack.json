@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NetCoreAssignment.bundle.scp.css",
-      "PackagePath": "staticwebassets\\NetCoreAssignment.bundle.scp.css"
+      "Id": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ImgCrud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImgCrud.bundle.scp.css"
     },
     {
       "Id": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NetCoreAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImgCrud.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NetCoreAssignment.props",
-      "PackagePath": "build\\NetCoreAssignment.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImgCrud.props",
+      "PackagePath": "build\\ImgCrud.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NetCoreAssignment.props",
-      "PackagePath": "buildMultiTargeting\\NetCoreAssignment.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImgCrud.props",
+      "PackagePath": "buildMultiTargeting\\ImgCrud.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NetCoreAssignment.props",
-      "PackagePath": "buildTransitive\\NetCoreAssignment.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImgCrud.props",
+      "PackagePath": "buildTransitive\\ImgCrud.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|d:\\projects\\asp.net core\\netcoreassignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|d:\\projects\\asp.net core\\netcoreassignment\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|d:\\projects\\asp.net core\\netcoreassignment\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D53CF34-D8E3-4CB7-8CAC-A221F6F6660A}|NetCoreAssignment.csproj|solutionrelative:views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
-              "ToolTip": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T21:18:26.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Views\\Product\\List.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\List.cshtml",
-              "ToolTip": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Views\\Product\\List.cshtml",
-              "RelativeToolTip": "Views\\Product\\List.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswBcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T21:06:10.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCgAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T20:59:13.939Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
