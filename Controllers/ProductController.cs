@@ -72,26 +72,26 @@ namespace Crud.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (product.Image != null)
+                {
+                    // Handle image upload
+                    if (product.Image != null && product.Image.Length > 0)
+                    {
+                        using (var stream = product.Image.OpenReadStream())
+                        {
+                            using (var memoryStream = new MemoryStream())
+                            {
+                                await stream.CopyToAsync(memoryStream);
+                                product.Image = memoryStream.ToArray();
+                            }
+                        }
+                    }
+                }
+
                 product.Id = Guid.NewGuid();
                 _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            }
-            return View(product);
-        }
-
-        // GET: Product/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
-            {
-                return NotFound();
             }
             return View(product);
         }

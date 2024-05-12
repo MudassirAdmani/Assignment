@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pXqO5a0s7unVL4FtPfYvS/sa3hQdv+Hl29FVVeYSEY+r0n/DbM5RZT2yW8+qCfGiDpQmQQntJyp5pWNgrcUJBw==",
+  "dgSpecHash": "Z0/5VCqDtqnm43wtBVNUe3lF5w/PVvi2uuL7VeiYOVMgVXTmXxpCih0rdGLcsAA0UEh2CLx/NP2yu4dzC7gYGQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP.Net Core\\Crud\\Crud.csproj",
+  "projectFilePath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mudassir\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mudassir\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

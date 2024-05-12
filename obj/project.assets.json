@@ -7843,11 +7843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ASP.Net Core\\Crud\\Crud.csproj",
+      "projectUniqueName": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Crud.csproj",
       "projectName": "Crud",
-      "projectPath": "D:\\Projects\\ASP.Net Core\\Crud\\Crud.csproj",
+      "projectPath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\Crud.csproj",
       "packagesPath": "C:\\Users\\Mudassir\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ASP.Net Core\\Crud\\obj\\",
+      "outputPath": "D:\\Projects\\ASP.Net Core\\NetCoreAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mudassir\\AppData\\Roaming\\NuGet\\NuGet.Config",
